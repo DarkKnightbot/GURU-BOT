@@ -25,7 +25,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 global.mods = ['917605902011', '32460248586','2348159111525']
 global.prems = ['917605902011', '32460248586', '919398758484','2348159111525']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.allowed = ['917605902011', '32460248586', '19152999993','2348159111525]
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -69,7 +69,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = PROCESS.ENV.DARK KNIGHT 💀
+global.botname = 'DARK KNIGHT 💀' 
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
